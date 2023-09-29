@@ -1,0 +1,49 @@
+body{
+margin:0;
+}
+
+
+h1{
+    color:#344054;
+}
+#infoSection{
+    height:1vh;
+    width:50%;
+}
+
+#hero{
+    position:absolute;
+    right:5%;
+border-radius: 5%;
+
+}
+
+
+#infoSection{
+    margin-left: 5%;
+}
+form{
+    height: 50vh;
+ display: flex;
+ flex-direction: column;
+justify-content: space-around;
+}
+
+button{
+    height: 5%;
+    width: 80%;
+    background-color:#5429FF;
+    border: none;
+}
+
+.label{
+    opacity:400;
+}
+
+.subtitle{
+    color:#667085;
+}
+
+.text{
+    height: 40%;
+}
